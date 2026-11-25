@@ -26,7 +26,7 @@ A proposta é transformar dados esportivos em informações relevantes, permitin
 
 ### Principais insights
 
-![Insights Corinthians Analytics](images/insights.png)
+![Insights Corinthians Analytics](imagens/insights.png)
 
 *Dashboard e insight desenvolvido no Power BI para análise do desempenho do Corinthians em 2025.*
 
